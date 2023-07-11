@@ -1,6 +1,6 @@
 {
   "name": "storybook-web-components-wds",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Storybook framework for Web Components and @web/dev-server",
   "license": "MIT",
   "repository": "https://github.com/bashmish/storybook-web-components-wds",
