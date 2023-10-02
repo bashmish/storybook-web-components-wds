@@ -1,5 +1,4 @@
-# storybook-web-components-wds
+Moved to Modern Web
 
-Storybook framework for Web Components and `@web/dev-server`.
-
-Please refer to [storybook-builder-wds](https://github.com/bashmish/storybook-builder-wds) for the documentation.
+- docs https://modern-web.dev/docs/storybook-builder/overview/
+- code https://github.com/modernweb-dev/web/tree/master/packages/storybook-framework-web-components
